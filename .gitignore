@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.test_dependencies/
+.test_pulp/
+venv/
+outputs/
+Result_*.xlsx
+~$*
+.vscode/
+.idea/
+.env
+*.log
